@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JimFlix-react/static/css/main.0caf5c6a.css",
+    "main.js": "/JimFlix-react/static/js/main.c679c595.js",
+    "index.html": "/JimFlix-react/index.html",
+    "main.0caf5c6a.css.map": "/JimFlix-react/static/css/main.0caf5c6a.css.map",
+    "main.c679c595.js.map": "/JimFlix-react/static/js/main.c679c595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0caf5c6a.css",
+    "static/js/main.c679c595.js"
+  ]
+}
