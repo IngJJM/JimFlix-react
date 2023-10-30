@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/JimFlix-react/static/css/main.0caf5c6a.css",
-    "main.js": "/JimFlix-react/static/js/main.d43bbf14.js",
+    "main.js": "/JimFlix-react/static/js/main.59df020f.js",
     "static/media/log.png": "/JimFlix-react/static/media/log.084e81a7dab927de77b3.png",
     "index.html": "/JimFlix-react/index.html",
     "main.0caf5c6a.css.map": "/JimFlix-react/static/css/main.0caf5c6a.css.map",
-    "main.d43bbf14.js.map": "/JimFlix-react/static/js/main.d43bbf14.js.map"
+    "main.59df020f.js.map": "/JimFlix-react/static/js/main.59df020f.js.map"
   },
   "entrypoints": [
     "static/css/main.0caf5c6a.css",
-    "static/js/main.d43bbf14.js"
+    "static/js/main.59df020f.js"
   ]
 }
